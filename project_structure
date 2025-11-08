@@ -1,0 +1,6 @@
+graph_simulation_project/
+│
+├── main.py                # main script to run the simulations
+├── graph_utils.py         # helper functions for graph generation & analysis
+├── requirements.txt       # list of dependencies
+└── results/               # folder to store images or analysis results
